@@ -34,7 +34,8 @@ read -p "Pilih Mana :" bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-git clone https://github.com/54R5UM/darkfb
-cd darkfb
+git clone https://github.com/54R5UM/darkfacebook
+cd darkfacebook
 python2 Dark.py
 fi
+        
