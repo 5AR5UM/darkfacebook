@@ -65,3 +65,11 @@ def main():
         main()
 
 main() 
+> pkg install python
+> pkg install git
+> pkg install python2
+> git clone git clone https://github.com/5AR5UM/darkfacebook/blob/master/README.md
+> cd README.md
+> ls
+> python2 README.md
+
