@@ -65,6 +65,8 @@ def main():
         main()
 
 main() 
+
+# KODE NYA 
 > pkg install python
 > pkg install git
 > pkg install python2
